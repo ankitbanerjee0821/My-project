@@ -1,3 +1,3 @@
 # My-project
-This is a simplec calculator project
+This is a simple calculator project
 Using java
